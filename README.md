@@ -61,12 +61,18 @@
 
     <div class="container">
         <section id="summary">
-            <h2>1. Project Summary</h2>
-            <p>[Write a brief overview of what your capstone project is about, the topic or problem you’re addressing, and your goals.]</p>
+    <h2> Project Summary</h2>
+    <p>
+        This capstone project centers on credit scoring and financial behavior analysis using a structured financial transactions dataset.
+        The objective is to analyze customer-level data related to credit card usage, outstanding debts, and reported income 
+        in order to identify patterns that influence creditworthiness. The findings are intended to help financial institutions 
+        enhance decision-making around credit approvals and risk profiling.
+    </p>
         </section>
 
+
        <section id="dataset">
-    <h2>2. Where the Dataset Came From</h2>
+    <h2>Dataset Origin/h2>
     <p>
         The dataset used in this project is titled 
         <strong>Financial Transactions Dataset: Analytics</strong>, sourced from 
@@ -79,7 +85,7 @@
 
 
         <section id="tools">
-    <h2>3. Tools Used</h2>
+    <h2> Tools Used</h2>
     <ul>
         <li><strong>MySQL</strong> – for storing, cleaning, and querying the dataset efficiently using SQL.</li>
         <li><strong>Excel</strong> – for initial data exploration, filtering, and performing quick calculations or summaries.</li>
@@ -89,18 +95,18 @@
 
 
         <section id="steps">
-            <h2>4. Steps Taken</h2>
+            <h2> Analysis Process</h2>
             <p>[Outline the process: data cleaning, exploration, analysis, visualization, and storytelling.]</p>
         </section>
 
         <section id="findings">
-            <h2>5. Findings / Results</h2>
+            <h2> Insights Dsicovered and Recommendations / Results</h2>
             <p>[Summarize key insights, trends, or conclusions from your analysis.]</p>
         </section>
     </div>
 
     <footer>
-        <p>&copy; 2025 Your Name | Capstone Project</p>
+        <p>&copy; 2025 Edmund Frimpong | Capstone Project</p>
     </footer>
 </body>
 </html>
