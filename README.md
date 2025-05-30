@@ -72,7 +72,7 @@
 
 
        <section id="dataset">
-    <h2>Dataset Origin/h2>
+    <h2>Dataset Origin /h2>
     <p>
         The dataset used in this project is titled 
         <strong>Financial Transactions Dataset: Analytics</strong>, sourced from 
@@ -85,7 +85,7 @@
 
 
         <section id="tools">
-    <h2> Tools Used</h2>
+    <h2> Tools Used </h2>
     <ul>
         <li><strong>MySQL</strong> – for storing, cleaning, and querying the dataset efficiently using SQL.</li>
         <li><strong>Excel</strong> – for initial data exploration, filtering, and performing quick calculations or summaries.</li>
@@ -100,7 +100,7 @@
         </section>
 
         <section id="findings">
-            <h2> Insights Dsicovered and Recommendations / Results</h2>
+            <h2> Insights Dsicovered and Recommendations / Results </h2>
             <p>[Summarize key insights, trends, or conclusions from your analysis.]</p>
         </section>
     </div>
