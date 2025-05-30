@@ -65,15 +65,28 @@
             <p>[Write a brief overview of what your capstone project is about, the topic or problem you’re addressing, and your goals.]</p>
         </section>
 
-        <section id="dataset">
-            <h2>2. Where the Dataset Came From</h2>
-            <p>[Mention the source of your data—e.g., Kaggle, government database, Google BigQuery public datasets, etc.]</p>
+       <section id="dataset">
+    <h2>2. Where the Dataset Came From</h2>
+    <p>
+        The dataset used in this project is titled 
+        <strong>Financial Transactions Dataset: Analytics</strong>, sourced from 
+        <a href="https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets" target="_blank">Kaggle</a>. 
+        This comprehensive financial dataset combines transaction records, customer information, and card data 
+        from a banking institution, spanning across the 2010s decade. It is designed for various analytical 
+        purposes including synthetic fraud detection, customer behavior analysis, and expense forecasting.
+    </p>
         </section>
 
+
         <section id="tools">
-            <h2>3. Tools Used</h2>
-            <p>[List the tools you're using for your analysis, such as Excel, SQL, Python, Google Sheets, Power BI, Looker Studio, etc.]</p>
+    <h2>3. Tools Used</h2>
+    <ul>
+        <li><strong>MySQL</strong> – for storing, cleaning, and querying the dataset efficiently using SQL.</li>
+        <li><strong>Excel</strong> – for initial data exploration, filtering, and performing quick calculations or summaries.</li>
+        <li><strong>Tableau</strong> – to build interactive visualizations and dashboards that clearly present insights.</li>
+    </ul>
         </section>
+
 
         <section id="steps">
             <h2>4. Steps Taken</h2>
