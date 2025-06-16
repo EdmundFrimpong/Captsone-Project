@@ -79,8 +79,9 @@
 </head>
 <body>
     <header>
-        <h1>Capstone Project Overview</h1>
-        <p>A Deep Dive Into My Final Project</p>
+        <h1>Exploring the Relationship Between Income, Debt</h1>
+        <p>Understanding How Income, Age, and Credit Profiles Influence Spending Behaviour
+        </p>
     </header>
 
     <div class="container">
@@ -150,7 +151,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2025 Your Name | Capstone Project</p>
+        <p>&copy; 2025 Edmund Frimpong | Capstone Project</p>
     </footer>
 </body>
 </html>
