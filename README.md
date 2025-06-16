@@ -13,6 +13,7 @@
             margin: 0;
             padding: 0;
             color: #333;
+            font-size: 18px; /* Increased base font size for overall page */
         }
 
         header {
@@ -39,10 +40,11 @@
         h2 {
             color: #ff8c00;
             margin-top: 0;
+            /* h2 will naturally scale up with body font size, no explicit change needed here unless you want it even larger */
         }
 
         p, ul {
-            font-size: 16px;
+            font-size: 1.1em; /* Increased specific font size for paragraphs and lists relative to body */
             line-height: 1.6;
         }
 
@@ -79,9 +81,8 @@
 </head>
 <body>
     <header>
-        <h1>Exploring the Relationship Between Income, Debt</h1>
-        <p>Understanding How Income, Age, and Credit Profiles Influence Spending Behaviour
-        </p>
+        <h1>Capstone Project Overview</h1>
+        <p>A Deep Dive Into My Final Project</p>
     </header>
 
     <div class="container">
@@ -112,7 +113,7 @@
             <ul>
                 <li><strong>MySQL</strong> – for storing, cleaning, and querying the dataset efficiently using SQL.</li>
                 <li><strong>Excel</strong> – for initial data exploration, filtering, and performing quick calculations or summaries.</li>
-                <li><strong>Looker Studio</strong> – to build interactive visualizations and dashboards that clearly present insights. (Updated from Tableau)</li>
+                <li><strong>Looker Studio</strong> – to build interactive visualizations and dashboards that clearly present insights.</li>
             </ul>
         </section>
 
@@ -151,7 +152,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2025 Edmund Frimpong | Capstone Project</p>
+        <p>&copy; 2025 Your Name | Capstone Project</p>
     </footer>
 </body>
 </html>
