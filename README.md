@@ -24,7 +24,7 @@
         }
 
         .container {
-            max-width: 900px;
+            max-width: 1200px; /* Adjusted for wider content */
             margin: 40px auto;
             padding: 0 20px;
         }
@@ -40,7 +40,6 @@
         h2 {
             color: #ff8c00;
             margin-top: 0;
-            /* h2 will naturally scale up with body font size, no explicit change needed here unless you want it even larger */
         }
 
         p, ul {
